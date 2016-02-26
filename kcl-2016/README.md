@@ -30,7 +30,6 @@ Describe and discuss the Bioinformatic Challenges (technical and analytical chal
 **Bioinformatics Data Handling Assessment Part 2:** https: //github.com/snewhouse/genomic-med-msc-variant-prioritisation  
 
 
-
 **************
 
 
