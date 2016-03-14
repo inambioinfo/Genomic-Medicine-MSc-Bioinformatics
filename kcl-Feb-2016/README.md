@@ -1,6 +1,13 @@
 # Genomic-Medicine-MSc-Bioinformatics
 Course Material and stuff
 
+## Handbook and TimeTable
+
+| Date |  Document | Author |
+|:------|:----------|:----------|  
+| Feb 19 2016 | [Handbook]()  | <stephen.j.newhouse@gmail.com>|
+| Feb 19 2016 | [TimeTable]() | <stephen.j.newhouse@gmail.com>|
+
 # Assessments Feb 2016
 
 | Date |  Version | Author |
