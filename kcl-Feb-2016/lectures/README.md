@@ -35,10 +35,10 @@ kcl-Feb-2016/lectures
 │   ├── Helena.Gaspar.PATHWAY.Feb.2016.pdf
 │   ├── Helena.Gaspar.PATHWAY.Feb.2016.pptx
 │   ├── Helena.Gaspar.PATHWAY.Feb.2016.v2.0.pdf
-│   ├── M7\ Hubbard\ ENCODE.pdf
 │   ├── Paul.O.Reilly.PolyGenicRiskFeb.2016.pdf
 │   ├── Petroula.Proitsi.Mendelian.Randomisation.Feb.2016.ppt
 │   └── Petroula.Proitsi.Mendelian.Randomisation.Feb.2016.v2.0.ppt
 └── README.md
 
-5 directories, 33 files
+5 directories, 32 files
+```
