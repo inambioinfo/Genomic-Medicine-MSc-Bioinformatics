@@ -11,7 +11,7 @@ Course Material and stuff
 
 ### Bonus material 
 - [Why do sequencing?](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics/blob/master/kcl-Feb-2016/ngs-intro-dunning/ngs-intro.Rmd)
-
+- [NGS alignment and variant calling](https://github.com/ekg/alignment-and-variant-calling-tutorial)
 
 # Assessments Feb 2016
 
