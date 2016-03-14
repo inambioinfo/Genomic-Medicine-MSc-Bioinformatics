@@ -5,8 +5,8 @@ Course Material and stuff
 
 | Date |  Document | Author |
 |:------|:----------|:----------|  
-| Feb 19 2016 | [Handbook]()  | <stephen.j.newhouse@gmail.com>|
-| Feb 19 2016 | [TimeTable]() | <stephen.j.newhouse@gmail.com>|
+| Feb 19 2016 | [Handbook](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics/blob/master/kcl-Feb-2016/Handbook.7BBG2014.M7.Bioinformatics.Genomic.Medicine.Feb.2016.doc)  | <stephen.j.newhouse@gmail.com>|
+| Feb 19 2016 | [TimeTable](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics/blob/master/kcl-Feb-2016/TimeTable.7BBG2014.M7.Bioinformatics.Genomic.Medicine.Feb.2016.xlsx) | <stephen.j.newhouse@gmail.com>|
 
 # Assessments Feb 2016
 
