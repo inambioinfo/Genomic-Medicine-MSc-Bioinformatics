@@ -1,20 +1,25 @@
 ## Lectures Feb 2016
 
-26.02.2016: Missing Tim Hubbard's Lecturs
-
-
 ```bash
-kcl-Feb-2016/lectures/
+kcl-Feb-2016/lectures
 ├── 01-MON
+│   ├── 01.Tim.Hubbard.Introduction.and.Bioinformatics.Feb.2016.pdf
+│   ├── 02.Tim.Hubbard.Introducion.Genomics.England.Data.access.policy.Feb.2016.pdf
+│   ├── 03.Tim.Hubbard.Genomics.England.Data.Generation.QC.Organisation.Feb.2016.pdf
 │   ├── Genomic.Medicine.MSc.NGS.Intro.Formats.Processing.SJNhewouse.15.02.2016.gslides
 │   ├── Genomic.Medicine.MSc.NGS.Intro.Formats.Processing.SJNhewouse.15.02.2016.pdf
 │   ├── README.md
-│   └── Stephen.Newhouse.NGS.Intro.Formats.Processing.Feb.2016.pdf
+│   ├── Stephen.Newhouse.NGS.Intro.Formats.Processing.Feb.2016.pdf
+│   ├── Tim.Hubbard.Genomics\ England.Data.Generation.QC.Organisan.Feb.2016.pdf
+│   ├── Tim.Hubbard.Introduc)on\ to\ Genomics\ England\ data,\ Data.access.policy.Feb.2016.pdf
+│   └── Tim.Hubbard.Introduction.and.Bioinformatics.Feb.2016.pdf
 ├── 02-TUE
 │   ├── Genomic.Medicine.MSc.NGS.Intro.Formats.Processing.SJNhewouse.16.02.2016.pdf
 │   ├── Simon.Topp.Variant_Annotation.Feb.2016.pptx
-│   ├── Variant_Annotation_MSc.pdf
-│   └── Variant_Annotation_MSc.pptx
+│   ├── Simon.Topp.Variant_Annotation_MSc.pdf
+│   ├── Simon.Topp.Variant_Annotation_MSc.pptx
+│   ├── Tim.Hubbard.Online.resources\ history\ of\ variant\ consor3a,\ repositories.resources.Feb.2016.pdf
+│   └── Tim.Hubbard.Online.resources.variant.consortia.repositories.resources.Feb.2016.pdf
 ├── 03-WED
 │   ├── Anika.Oellrich.Ontologies.Feb.2016.pdf
 │   ├── Frances.Smith.Variant.interpretation.Feb.2016.pdf
@@ -33,10 +38,10 @@ kcl-Feb-2016/lectures/
 │   ├── Helena.Gaspar.PATHWAY.Feb.2016.pdf
 │   ├── Helena.Gaspar.PATHWAY.Feb.2016.pptx
 │   ├── Helena.Gaspar.PATHWAY.Feb.2016.v2.0.pdf
+│   ├── M7\ Hubbard\ ENCODE.pdf
 │   ├── Paul.O.Reilly.PolyGenicRiskFeb.2016.pdf
 │   ├── Petroula.Proitsi.Mendelian.Randomisation.Feb.2016.ppt
-│   └── Petroula.Proitsi.Mendelian.Randomisation.Feb.2016.v2.0.ppt
+│   ├── Petroula.Proitsi.Mendelian.Randomisation.Feb.2016.v2.0.ppt
+│   └── Tim.Hubbard.ENCODE.Feb.2016.pdf
 └── README.md
-
-5 directories, 27 files
 ```
